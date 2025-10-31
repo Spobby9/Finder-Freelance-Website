@@ -360,7 +360,7 @@ padding-top: 54px;}
 
 .nonlogo .logo{display: none;}
 
-
+.android a:nth-child(1) i{vertical-align: middle;}
 /* ===============================
    🔹 MEDIA QUERY STRUCTURE
    Breakpoints: 1399, 1199, 1024, 991, 768, 575, 480, 375, 320
