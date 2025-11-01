@@ -578,8 +578,8 @@ padding-top: 54px;}
 .testimonial-section h2{font-size: 32px;}
 
 .footer-content li a{font-size: 15px;}
-
-
+header {padding-bottom: 10px;}
+.hero-right-round-btn {margin-bottom: 20px;}
 
 
   /* Your CSS here */
@@ -599,6 +599,7 @@ padding-top: 54px;}
 
 /* ✅ For ≤ 480px (Small Mobile) */
 @media (max-width: 480px) {
+  
   .container{width:100%}
    .explore-section-card h2{font-size: 15px;  padding-top: 5px; padding-bottom: 5px;}
   .explore-section-card {background-position: center -70px;}
