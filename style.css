@@ -513,7 +513,8 @@ padding-top: 54px;}
 
 .footer-icon-container > div:nth-child(2) {margin-bottom:20px ; justify-content: center;}
 .footer-icon-link {margin-bottom: 20px; display: flex; justify-content: center;}
-
+.footer-icon-link ul li a{margin: 0;padding: 0;}
+.footer-icon{gap: 30px;}
 .header-btn{text-align: center;}
 .header-btn a {display: block;margin-left: -65px;margin-top: 3px;}
   .navlinks li {text-align: center; }
