@@ -626,6 +626,7 @@ header {padding-bottom: 10px;}
 /* ✅ For ≤ 320px (Very Small Devices) */
 @media (max-width: 320px) {
    .container{width:100%}
+   .logo a {max-width: 100px;}
   
 }
 
